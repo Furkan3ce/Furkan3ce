@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning HTML, CSS, C/C++
 - 📫You can reach me at: linkedin.com/in/furkan-ece
 - I'm at the beginning of my adventure.
-- I am trying to find my strengths.
 
   
